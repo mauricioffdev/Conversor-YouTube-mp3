@@ -4,6 +4,7 @@ import com.mauricioffdev.service.ConverterService;
 
 import java.util.Scanner;
 
+// Mantive essa classe como recordação do projeto antes de virar Spring Boot
 public class AntigoMain {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -20,6 +20,7 @@ public class ConverterService {
     public void downloadAndConvert(String videoUrl, String quality) {
         try {
             // Garante que a pasta de downloads existe
+            // Deixei um mp3 de exemplo
             File downloadDir = new File(DOWNLOAD_FOLDER);
             if (!downloadDir.exists()) {
                 downloadDir.mkdirs();

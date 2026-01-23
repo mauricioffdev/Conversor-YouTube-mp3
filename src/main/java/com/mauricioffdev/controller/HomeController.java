@@ -19,12 +19,12 @@ public class HomeController {
         return "index"; // Abre o arquivo index.html
     }
 
-    @PostMapping("/converter") // Quando clicar no botão do formulário
+    @PostMapping("/converter") // Quando clicar no botão do formulario
     public String converter(@RequestParam String url,
                             @RequestParam String quality,
                             Model model) {
 
-        // Chama seu serviço antigo para fazer o trabalho duro
+        // Chama seu serviço antigo
         converterService.downloadAndConvert(url.trim(), quality);
 
         // Devolve uma mensagem para a tela
