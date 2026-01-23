@@ -19,6 +19,14 @@ Este projeto foi criado com o objetivo de praticar o desenvolvimento Full Stack 
 - Processamento e extração do áudio no servidor.
 - Download automático do arquivo MP3 gerado.
 
+## 🗺️ Roadmap de Evolução
+
+Este projeto está em constante evolução. As próximas funcionalidades planejadas são:
+
+- [ ] **Download em Lote:** Capacidade de processar uma lista de URLs simultaneamente.
+- [ ] **Integração com Nuvem:** Upload automático do MP3 para serviços de storage (Google Drive/S3) para facilitar o acesso remoto.
+- [ ] **Melhoria na UI:** Feedback visual de progresso durante a conversão.
+
 ## 📦 Como rodar o projeto
 
 Clone o repositório:

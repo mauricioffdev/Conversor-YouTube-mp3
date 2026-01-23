@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.nio.file.Paths;
-import org.springframework.stereotype.Service; // <--- Importação nova
+import org.springframework.stereotype.Service;
 import java.io.BufferedReader;
 
 @Service
