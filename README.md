@@ -10,6 +10,8 @@ Este projeto foi criado com o objetivo de praticar o desenvolvimento Full Stack 
 - **Spring Boot** (Web MVC)
 - **Thymeleaf** (Interface Gráfica)
 - **Maven** (Gerenciamento de dependências)
+- **IntelliJ IDEA**
+
 
 ## ⚙️ Funcionalidades
 
@@ -22,7 +24,7 @@ Este projeto foi criado com o objetivo de praticar o desenvolvimento Full Stack 
 Clone o repositório:
 git clone (https://github.com/mauricioffdev/Conversor-YouTube-mp3)
 
-Entre na pasta do projeto: cd youtube-mp3-converter-java 
+Entre na pasta do projeto: JavaTubeConverter
 
 Execute via Maven: mvn spring-boot:run 
 
